@@ -1,0 +1,7 @@
+---
+switch1:
+    hostname: 172.22.3.253 
+    platform: ios
+switch2:
+    hostname: 172.22.3.252
+    platform: ios
